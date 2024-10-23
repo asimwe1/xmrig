@@ -1,6 +1,7 @@
-# Xmrig modified for MonerooceaN pool
+# Xmrig modified for MonerooceaN pool on windows
 
 This is a miner that is personalised for **Asimwe Landry** by **Asimwe Landry**
+
 ## Configuration
 
 * replace the ```"C:\"``` in the start_miner file w\ the path to the file xmrig
